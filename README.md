@@ -28,9 +28,12 @@ for web development, problem-solving, and software fundamentals.
 
 ### 🧰 Tools & Development Environment
 <p>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=gold"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=gold"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
+
 
 My primary tools for writing, managing, and collaborating on code projects.
 
@@ -38,3 +41,13 @@ My primary tools for writing, managing, and collaborating on code projects.
   <img src="https://img.shields.io/badge/Status-Learning-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Focus-Web%20Development-green?style=flat-square" />
 </p>
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
+</p>
+
+## 📫 Connect With Me
+- 📧 Email: arielberkatsimanjuntak@gmail.com
+- 💼 GitHub: https://github.com/ARIEL-SIMANJUNTAK
+

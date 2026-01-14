@@ -2,11 +2,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=ARIEL%-SIMANJUNTAK&fontSize=40&fontAlignY=35" />
 </p>
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">Hi there 👋 I'm Ariel</h2>
 
+## 📊 GitHub Stats
 <p align="center">
-  <strong>ARIEL SIMANJUNTAK</strong>
+  <img src="https://github-readme-stats.vercel.app/api?username=ARIEL-SIMANJUNTAK&show_icons=true&theme=tokyonight"/>
 </p>
+
 
 ---
 
@@ -42,10 +44,6 @@ My primary tools for writing, managing, and collaborating on code projects.
   <img src="https://img.shields.io/badge/Focus-Web%20Development-green?style=flat-square" />
 </p>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight"/>
-</p>
 
 ## 📫 Connect With Me
 - 📧 Email: arielberkatsimanjuntak@gmail.com

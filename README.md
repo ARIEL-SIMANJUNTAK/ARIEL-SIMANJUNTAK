@@ -4,10 +4,15 @@
 
 <h2 align="center">Hi there 👋 I'm Ariel</h2>
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARIEL-SIMANJUNTAK&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ARIEL-SIMANJUNTAK&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
 </p>
+
 
 
 ---
